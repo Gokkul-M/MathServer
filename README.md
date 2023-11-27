@@ -132,7 +132,7 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![Alt text](<Screenshot 2023-11-23 171337.png>)
+![image](https://github.com/Gokkul-M/MathServer/assets/144870543/750245ed-7a03-48d6-ba5c-7b9508fd62f7)
 
 ## HOMEPAGE:
 ![Alt text](<Screenshot 2023-11-23 165030.png>)
